@@ -5,6 +5,8 @@ gem 'rails', '4.0.0'
 
 
 
+gem 'rails_12factor'
+
 gem 'pg'
 
 # Use SCSS for stylesheets
